@@ -1,0 +1,44 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ .theme-bundle-notice-wrap{
+	display: flex;
+	flex-wrap: nowrap;
+}
+.theme-bundle-notice-wrap .custom-column {
+    width: calc(33.33% - 30px);
+	margin: 15px;
+}
+.theme-bundle-notice-wrap .custom-column ul {
+	list-style: circle;
+}
+.theme-bundle-notice-wrap .custom-column h2 {
+	font-size: 24px;
+	margin-bottom: 18px;
+	line-height: 32px;
+}
+.theme-bundle-notice-wrap .custom-column img {
+	width: 85%;
+}
+.text-center.custom-column {
+	margin-bottom: 0;
+}
+
+@media only screen and (max-width: 1400px) {
+    .theme-bundle-notice-wrap .custom-column img {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .theme-bundle-notice-wrap {
+        display: block;
+    }
+    .theme-bundle-notice-wrap .custom-column {
+        width: 100%;
+    }
+    .theme-bundle-notice-wrap .custom-column img {
+        width: 100%;
+    }
+}

@@ -1,0 +1,10 @@
+a:4:{s:8:"template";s:8:"awe-blog";s:4:"mods";a:4:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:145;}s:18:"custom_css_post_id";i:21115;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1623381838;s:4:"data";a:6:{s:19:"wp_inactive_widgets";a:0:{}s:9:"sidebar-1";a:6:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-2";i:2;s:17:"recent-comments-2";i:3;s:10:"archives-2";i:4;s:12:"categories-2";i:5;s:6:"meta-2";}s:17:"awe_blog_footer_1";a:1:{i:0;s:6:"text-2";}s:17:"awe_blog_footer_2";a:1:{i:0;s:14:"recent-posts-4";}s:17:"awe_blog_footer_3";a:1:{i:0;s:8:"search-3";}s:12:"home-sidebar";a:3:{i:0;s:14:"recent-posts-3";i:1;s:12:"categories-3";i:2;s:13:"media_image-2";}}}}s:7:"options";a:16:{s:9:"site_icon";s:1:"0";s:32:"awe_blog_theme_options[facebook]";s:1:"#";s:31:"awe_blog_theme_options[twitter]";s:1:"#";s:33:"awe_blog_theme_options[instagram]";s:1:"#";s:35:"awe_blog_theme_options[search_show]";i:1;s:48:"awe_blog_theme_options[awe_blog_slider_category]";s:8:"business";s:34:"awe_blog_theme_options[auto_slide]";s:4:"fade";s:45:"awe_blog_theme_options[below_banner_category]";s:9:"lifestyle";s:34:"awe_blog_theme_options[image_type]";s:1:"1";s:47:"awe_blog_theme_options[three_post_section_show]";i:1;s:31:"awe_blog_theme_options[postid1]";s:3:"128";s:31:"awe_blog_theme_options[postid2]";s:4:"4252";s:31:"awe_blog_theme_options[postid3]";s:4:"4241";s:45:"awe_blog_theme_options[sidebar_blog_category]";s:13:"uncategorized";s:38:"awe_blog_theme_options[show_prefooter]";i:1;s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:141:".slide__heading {
+
+  line-height: 65px;
+
+}
+.card-slider-wrap .post-content h3 {
+  font-size: 22px;
+  margin-top: 25px;
+  line-height: 29px;
+}";}
